@@ -1,0 +1,3 @@
+C:/Users/diego/Desktop/TallerImperativo/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/diego/Desktop/TallerImperativo/cmake-build-debug-mingw/CMakeFiles/TallerImperativo.dir
+C:/Users/diego/Desktop/TallerImperativo/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
